@@ -1,1 +1,1 @@
-# latihansoal
+# Website untuk latihan soal masuk Perguruan Tinggi
